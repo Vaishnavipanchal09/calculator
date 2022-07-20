@@ -1,0 +1,40 @@
+
+         .title{
+
+         margin-bottom: 10px;
+         text-align: center;
+         width: 210px;
+         color:blue;
+         
+         }
+	table, th, td {
+	  border: 1px solid DodgerBlue;
+	  border-collapse: collapse;
+	 
+	}
+	 table.center 
+	  {
+
+	  margin-left: 580PX; 
+	  margin-right: 580PX;
+		
+	}
+  
+         input[type="button"]
+         {
+
+         background-color:DodgerBlue ;
+         color: white ;
+	 border: solid CornflowerBlue  2px;
+         width:100%
+
+         }
+  
+         input[type="text"]
+         {
+
+         background-color:white;
+         border: solid CornflowerBlue  2px;
+         width:100%
+
+         }
